@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "videochat": "fir-rtc-85264",
+    "default": "fir-rtc-85264"
+  },
+  "targets": {},
+  "etags": {}
+}
